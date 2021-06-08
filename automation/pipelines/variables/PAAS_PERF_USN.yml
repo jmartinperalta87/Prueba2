@@ -6,7 +6,7 @@ variables:
   KronosWebAppIdentifierUri: 'https://eycanvasperf.net/kronos-perf-usn-web'
   KronosWebObjectId: 'fc0f1619-c140-43c8-b675-3e20cb63a664'
   KronosWebDomainName: 'eycanvasform-usn-perf.cloudapp.eydev.net'
-  BudgetDatacenterResourcesTag: 'Americas'
+  BudgetDatacenterResourcesTag: ''
   HerculesAppDomainName: 'eycanvascoreapi-usn-perf.cloudapp.eydev.net'
   HerculesAppIdentifierUri: 'https://eycanvasperf.net/hercules-perf-usn'
   HerculesWebDomainName: 'eycanvascore-usn-perf.cloudapp.eydev.net'

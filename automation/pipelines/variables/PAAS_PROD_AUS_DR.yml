@@ -1,0 +1,3 @@
+variables:
+  deploymentAppServicePlan_skuName_web: 'I1'
+  deploymentAppServicePlan_skuCapacity_web: '1'

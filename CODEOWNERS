@@ -1,7 +1,7 @@
-#Only files in path
-/infraestructure/ @jmperalta87
-
 #All files
 * @jmartinperalta87
+
+#Only files in path
+infraestructure/ @jmperalta87
 
 

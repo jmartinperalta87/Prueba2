@@ -8,7 +8,6 @@ variables:
   HerculesAppDomainName: 'eycanvascoreapi-cn.ey.net'
   HerculesAppIdentifierUri: 'https://eygs.onmicrosoft.com/hercules-prd-cn-app'
   HerculesWebDomainName: 'eycanvascore-cn.ey.net'
-  ZeusWebDomainName: 'eycanvas.ey.net'
   UniversalAppDomainName: 'eycanvasapp.ey.net'
   UniversalAudienceURL: 'https://eygs.onmicrosoft.com/canvas-prd'
   EnggDocServiceDomain: 'eycanvasengagementdoc-cn.ey.net'
@@ -20,7 +19,7 @@ variables:
   appPoolPassword: 'HerculesWeb-PRD-CN--appPoolPassword'
   appPoolUserName: 'HerculesWeb-PRD-CN--appPoolUserName'
   SystemDriveLetter: 'D:'
-  AppInsightsInstrumentationKey: ''
+  AppInsightsInstrumentationKey: 'dsdsd'
   atlasBaseUrl: 'live-qa1.atlas.ey.com/'
   ### Helix API Info
   HelixServiceDomainName: 'eyhelix-devint3.sbp.eyclienthub.com'

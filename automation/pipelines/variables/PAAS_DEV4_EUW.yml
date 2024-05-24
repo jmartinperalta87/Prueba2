@@ -16,7 +16,7 @@ variables:
   HelixServiceDomainName: 'eyhelixplatform-devint8.ey.com'    
   SmartAutomationUrl: 'sah-u1-eu2.ey.net/api/v1/sam/U3'
   EngagementWebDomainName: 'canvaseng-dev4-euw.cloudapp.eydev.net'
-  resetWebAppPublishProfile: 'false'
+  resetWebAppPublishProfile: 'true'
   atlasBaseUrl: 'live.atlas.ey.com/'
   KronosWeb_AppD_ControllerHostName: ''
   KronosWeb_AppD_AccountName: ''
